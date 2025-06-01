@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Bhargavee Singh</h1>
+<h1 align="center">Greetings, I am Bhargavee Singh</h1>
 <h3 align="center">A Pre-Final Year Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavee25&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavee25" /> </p>
 
-- 🌱 I’m currently learning **Fullstack Development MERN with MongoDB**
+- Technical Skills
+Programming Languages: C++, Python, SQL, HTML/CSS, JavaScript, Java
+Frameworks:            Pandas, NumPy, scikit – learn, TensorFlow, Django
+Tools:                 MySQL, GitHub, Excel 
+Platforms:             Jupyter Notebook, Visual Studio Code, PyCharm, Kaggle, Google Colab
+Soft Skills:           Problem-solving, Report Making, Team Leadership, Communication, Collaboration
+
 
 - 📫 How to reach me **bhargavee090@gmail.com**
 
