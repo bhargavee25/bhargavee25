@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavee25&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavee25" /> </p>
 
-- About me
+About me
 - I am an ambitious student pursuing Bachelors of Technology in Computer Science and Engineering with a deep passion for technology, constantly pushing myself to learn and grow.
 
 - With proficiency in languages such as Python, Java, C++ ,SQL, HTML, CSS and Javascript I bring a versatile skill set to my table.
