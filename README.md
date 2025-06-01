@@ -3,12 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavee25&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavee25" /> </p>
 
-- Technical Skills
-- Programming Languages: C++, Python, SQL, HTML/CSS, JavaScript, Java
-- Frameworks:            Pandas, NumPy, scikit – learn, TensorFlow, Django
-- Tools:                 MySQL, GitHub, Excel 
-- Platforms:             Jupyter Notebook, Visual Studio Code, PyCharm, Kaggle, Google Colab
-- Soft Skills:           Problem-solving, Report Making, Team Leadership, Communication, Collaboration
+- About me
+- I am an ambitious student pursuing Bachelors of Technology in Computer Science and Engineering with a deep passion for technology, constantly pushing myself to learn and grow.
+
+- With proficiency in languages such as Python, Java, C++ ,SQL, HTML, CSS and Javascript I bring a versatile skill set to my table.
+
+- I am a team worker and a collaborator who looks forward to learn from others about new technologies and methods.
+
+- Passionate about solving real-world problems, I am excited to contribute to innovative projects and grow within a dynamic team.
 
 
 - 📫 How to reach me **bhargavee090@gmail.com**
